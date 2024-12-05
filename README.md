@@ -5,6 +5,13 @@ This is an HR Data Analytics portfolio project focusing on key metrics such as p
 ### Project Overview
 The original dataset contained over 80K records. For the purpose of this analysis, the dataset was cleaned and processed, resulting in a final dataset of 76K records used in this Power BI project. Data cleaning and transformation were conducted using Power BI's Query Editor, ensuring that only relevant and high-quality data were utilized.
 
+### Key Insights
+- **Age Distribution**: Majority of employees are between 20-29 years old.
+- **Gender Ratio**: Atlas Labs employs 2.7% more women than men.
+- **Diversity**:
+  - Non-binary employees make up 8.5% of the workforce.
+  - White employees have the highest average salary, while mixed ethnic groups have one of the lowest.
+
 ### Tools Used
 - **Data Cleaning & Preprocessing**: Power BI Query Editor
 - **Visualization & Reporting**: Microsoft Power BI
