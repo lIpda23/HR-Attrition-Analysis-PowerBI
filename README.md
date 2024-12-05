@@ -1,9 +1,10 @@
 # HR-Analytics-PowerBI
 
-This is an HR Data Analytics portfolio project focusing on key metrics such as performance tracking and attrition rates. The project involves data preprocessing, transformation, and visualization using Power BI to create interactive dashboards for understanding employee attrition patterns.
+
+This is an HR Data Analytics portfolio project focusing on key metrics such as performance tracking and attrition rates. The project aims to assist Atlas Labs in understanding the factors driving employee turnover and developing strategies to improve retention.
 
 ### Project Overview
-The original dataset contained over 80K records. For the purpose of this analysis, the dataset was cleaned and processed, resulting in a final dataset of 76K records used in this Power BI project. Data cleaning and transformation were conducted using Power BI's Query Editor, ensuring that only relevant and high-quality data were utilized.
+The original dataset contained over 80K records. For the purpose of this analysis, the dataset was cleaned and processed, resulting in a final dataset of 76K records used in this Power BI project. Data cleaning and transformation were conducted using Microsoft Excel and Power BI's Query Editor, ensuring that only relevant and high-quality data were utilized.
 
 ### Key Insights
 - **Age Distribution**: Majority of employees are between 20-29 years old.
@@ -11,6 +12,11 @@ The original dataset contained over 80K records. For the purpose of this analysi
 - **Diversity**:
   - Non-binary employees make up 8.5% of the workforce.
   - White employees have the highest average salary, while mixed ethnic groups have one of the lowest.
+ 
+### Business Recommendations
+- **Retention Focus**: Improve engagement/training programs for younger employees (20-29 years) to enhance their retention.
+- **Salary Fairness Review**: Review salary structure to ensure fairness, especially among mixed ethnic groups.
+- **Diversity Initiatives**: Enhance support for non-binary employees, who represent a significant proportion of the workforce.
 
 ### Tools Used
 - **Data Cleaning & Preprocessing**: Power BI Query Editor
@@ -25,7 +31,7 @@ The original dataset contained over 80K records. For the purpose of this analysi
 - **Power BI File Folder**: Includes the Power BI dashboard file (`.pbix`).
 - **Visualization Folder**: Screenshots of the Power BI visualizations and dashboards.
 
-### Key Insights
-- The cleaned dataset allowed us to accurately analyze which departments had the highest attrition rates and what factors (e.g., overtime, job role) contributed to employee turnover.
-- Visual insights provided actionable information for HR teams to develop targeted strategies to reduce attrition.
+### Challenges and Solutions
+- **Data Quality Issues**: Handled missing values through data imputation and removed outliers to ensure accurate analysis.
+- **Data Integration**: Combined data from multiple sources and created meaningful relationships between tables to support comprehensive analysis.
 
