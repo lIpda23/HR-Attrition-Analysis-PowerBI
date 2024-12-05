@@ -1,0 +1,19 @@
+# Datasets for HR Attrition Analysis
+
+This folder contains the datasets used in the HR Attrition Analysis Power BI project. The datasets include employee information, performance ratings, satisfaction levels, and other key variables used for the analysis.
+
+### Files Included
+
+1. **`Employee.csv`**: Contains general employee information such as job role, department, and demographics.
+2. **`PerformanceRating.csv`**: Includes employee performance ratings across different evaluation periods.
+3. **`EducationLevel.csv`**: Represents employee education level information.
+4. **`RatingLevel.csv`**: Data related to employee satisfaction and performance rating levels.
+5. **`SatisfiedLevel.csv`**: Represents employee satisfaction scores.
+6. **`DimDate.txt`**: Date dimension data for time-based analysis in the Power BI report.
+
+### Purpose of the Datasets
+These datasets are used to analyze employee attrition rates and identify factors that contribute to higher turnover. By exploring these datasets, we can generate insights into which departments or roles have the highest attrition rates and what factors (such as overtime, travel, job role) might be affecting employee retention.
+
+### Notes
+- The data in this folder is either publicly available or synthetically generated for educational purposes.
+- The datasets are cleaned and prepared using Power Query, which is also a key part of the data analysis workflow demonstrated in this project.
