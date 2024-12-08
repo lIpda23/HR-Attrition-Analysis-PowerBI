@@ -1,6 +1,6 @@
 # HR-Analytics-PowerBI
 
-
+This project is based on a DataCamp course, where I applied data cleaning, transformation, and visualization techniques using Power BI to analyze HR data. It reflects my ability to implement learned concepts and produce actionable insights.
 This is an HR Data Analytics portfolio project focusing on key metrics such as performance tracking and attrition rates. The project aims to assist Atlas Labs in understanding the factors driving employee turnover and developing strategies to improve retention.
 
 ### Project Overview
